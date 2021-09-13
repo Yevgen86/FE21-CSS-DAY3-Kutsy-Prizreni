@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+
+}
+
+ul {
+    display:flex;
+    justify-content: center;
+    list-style-type: none;
+    justify-content: space-between;
+    width: 50%;
+    margin: auto;
+}
+li {
+    background-color: rgba(215, 245, 245,0.7);
+    
+}
+li:hover {
+    background-color: rgb(117, 116, 116);
+    font-size: 20px;
+    transition: 2s;
+    transform: ;
+
+}
+li:hover a {
+color: rgb(252, 252, 252);
+
+}
+a {
+
+    text-decoration: none;
+    color: black;
+    
+}
